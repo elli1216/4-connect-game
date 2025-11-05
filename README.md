@@ -38,7 +38,3 @@ To run the game locally:
 ## Customization
 
 You can modify the board size, colors, or add new features by editing the React components in `src/Components/`.
-
-## License
-
-This project is open source and available under the MIT License.
